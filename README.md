@@ -24,6 +24,8 @@ Build & upload
 
 ## Schematic
 
+https://easyeda.com/zebrajaeger/esp-01-nzp-clock
+
 With 128x64 OLED pinout
 
 - (OLED)GND to Ground
