@@ -1,7 +1,16 @@
 # ESP-01-NZP-Clock
 
+![](./doc/prototype-1024.png)
+
+Schematic and PCB: https://easyeda.com/zebrajaeger/esp-01-nzp-clock
+
 - ESP-01 (S)
 - I2C Oled Display
+
+
+- The ESP32-NodeMCU module is in this case only a USB power connector
+between my Powerbank and the breadboard.
+- The small unconnected ADS115 PCB has no function. I forgot to remove it.
 
 ## Build
 
@@ -49,8 +58,8 @@ With 128x64 OLED pinout
 
 ## TODO
 
-- Real schematic
-- Picture of Prototype
-- PCB
-- Picture of 'Product'
-- Case
+- [x] Real schematic
+- [x] Picture of Prototype
+- [x] PCB
+- [ ] Picture of 'Product'
+- [ ] Case
